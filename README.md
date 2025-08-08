@@ -1,5 +1,13 @@
 # HTMLs_to_PDFs
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e416771e31c246bc97ab4fd0d1cc2e2b)](https://app.codacy.com/gh/R0mb0/HTMLs_to_PDFs/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/HTMLs_to_PDFs)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/HTMLs_to_PDFs)
+[![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
+
+[![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
+
 Batch convert HTML files to PDF using PowerShell and wkhtmltopdf.  
 This script automatically processes all HTML files in its folder and saves the converted PDFs in an `output` directory.
 
