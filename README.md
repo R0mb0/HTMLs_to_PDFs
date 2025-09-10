@@ -1,4 +1,4 @@
-# HTMLs_to_PDFs
+# HTMLs to PDFs
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e416771e31c246bc97ab4fd0d1cc2e2b)](https://app.codacy.com/gh/R0mb0/HTMLs_to_PDFs/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
